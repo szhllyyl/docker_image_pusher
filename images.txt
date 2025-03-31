@@ -5,3 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.39
+elasticsearch:8.11.3
+valkey/valkey:8
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+infiniflow/infinity:v0.6.0-dev3
