@@ -1,1 +1,1 @@
-onlyoffice/documentserver:7.1.1
+dataelement/bisheng-frontend:v1.2.0
