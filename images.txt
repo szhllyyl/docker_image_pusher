@@ -1,1 +1,1 @@
-dataelement/bisheng-frontend:v1.2.0
+zilliz/attu:latest
